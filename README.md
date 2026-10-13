@@ -10,8 +10,16 @@ Create/populate the database:
 
 ```bash
 python database_setup.py
+```
 
 Run the application:
 
 ```bash
 python main.py
+```
+
+## Files
+
+- `main.py` - Flight Management System command-line application
+- `database_setup.py` - database schema and sample data
+- `flight_management.db` - SQLite database
