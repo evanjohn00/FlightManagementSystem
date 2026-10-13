@@ -10,3 +10,8 @@ Create/populate the database:
 
 ```bash
 python database_setup.py
+
+Run the application:
+
+```bash
+python main.py
